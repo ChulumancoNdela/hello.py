@@ -7,3 +7,35 @@ Python performs a lot of operations with string data type, python has poer to an
 through processing the process of slicing of that refers to taking a portion of a string and returning.
 
 Simple example my string name is Chulumanco so if we want to get the first String we will use name[0] = charector(C) since programs start counting at or from [0] then the soncond chareacter which will be [1] = (h)
+
+
+#Formarting
+
+In Python there are many ways to format and many reason to do formating in strings. We can do rounding and number formatting with f-string. The formatintg function is similar to and was used in version of python.
+
+
+#Multi-line String
+
+Lastly, Python has a feature to create multi-line strings by using triple quotes.
+
+#LISTS
+
+lists are not that different from the string because they use the same syntax for slicing because slicing can be used to extract a range of values from a list or string.
+
+#MODIFYING LISTS
+
+We acan modify a list by adding values, extracting values and appending values 
+
+example: if we have a list of values on mylist with values 1,2,3,4 we can append the value 5 to it by typing mylist.append and then printing myList.
+
+if i want to insert an item at a specific position in the list, we can use insert()
+ method for an example if I want to insert a value 10 in position 1 I can use insert(1,10) and the print my list
+
+
+#TUPULS AND SETS
+
+I adentify sets with the curly brackets, like this {'a','b','c'} mySet
+
+#DICTIONARIES
+
+
