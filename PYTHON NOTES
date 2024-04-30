@@ -1,0 +1,9 @@
+BASIC DATA TYPES IN PYTHO
+
+
+#STRINGS
+
+Python performs a lot of operations with string data type, python has poer to analyze a string 
+through processing the process of slicing of that refers to taking a portion of a string and returning.
+
+Simple example my string name is Chulumanco so if we want to get the first String we will use name[0] = charector(C) since programs start counting at or from [0] then the soncond chareacter which will be [1] = (h)
